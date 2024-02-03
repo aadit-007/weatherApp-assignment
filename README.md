@@ -41,17 +41,5 @@ git clone https://github.com/aadit-007/weatherApp-assignment.git
 - `material-ui`
 
 Check `packages.json` for details
-
-<br/>
-
-## 📄 Todos
-
-- [ ] Styled-components
-- [ ] Convert the entire project to TypeScript
-- [ ] Unit Testing
-- [ ] On launch, find user location weather by utilizing GeolocationAPI/GEOCODING
-- [ ] Celcius/Fahrenheit conversion
-- [ ] Dark/Light Mode
-
 <br/>
 Thank You ☺
