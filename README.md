@@ -10,9 +10,7 @@ The app is developed using React.js and material-UI.
 <br/>
 
 ## 💻 Live Demo:
-
-<!-- Live Link -->
-
+(https://weather-app-aditya-121.netlify.app/)
 <br/>
 
 ## ✨ Getting Started
