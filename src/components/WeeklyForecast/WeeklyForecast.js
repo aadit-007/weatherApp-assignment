@@ -1,4 +1,4 @@
-import React, {useState} from 'react';
+import React from 'react';
 import { Grid } from '@mui/material';
 import { getWeekDays } from '../../utilities/DatetimeUtils';
 import { weatherIcon } from '../../utilities/IconsUtils';
